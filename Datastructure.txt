@@ -1,0 +1,16 @@
+DeprNet A Deep Convolution Neural Network Framework for Detecting Depression Using EEG
+
+
+Convolutional neural network (CNN), electroencephalography,
+measurement of depression, pattern classification,
+visualization.
+
+
+IEEE Transactions on Instrumentation and Measurement,Volume:70,Issue Date:25.January.2021
+
+DeprNet
+
+deprnet
+
+
+
